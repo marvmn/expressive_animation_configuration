@@ -1,0 +1,343 @@
+curves:
+- control_point0:
+  - 0.5
+  - 0.25
+  control_point1:
+  - 0.8
+  - 1.0
+  indices:
+  - 0
+  - 1
+- control_point0:
+  - 0.5
+  - 0.4
+  control_point1:
+  - 0.5
+  - 0.6
+  indices:
+  - 1
+  - 2
+- control_point0:
+  - 0.5
+  - 0.2
+  control_point1:
+  - 0.8
+  - 0.8
+  indices:
+  - 3
+  - 7
+- control_point0:
+  - 0.5
+  - 0.2
+  control_point1:
+  - 0.8
+  - 0.8
+  indices:
+  - 7
+  - 11
+- control_point0:
+  - 0.5
+  - 0.2
+  control_point1:
+  - 0.8
+  - 0.8
+  indices:
+  - 11
+  - 15
+- control_point0:
+  - 0.5
+  - 0.4
+  control_point1:
+  - 0.5
+  - 0.6
+  indices:
+  - 15
+  - 16
+- control_point0:
+  - 0.5
+  - 0.25
+  control_point1:
+  - 0.8
+  - 1.0
+  indices:
+  - 18
+  - 19
+header:
+  animation_name: happy_test
+trajectory:
+  header:
+    frame_id: panda_joint0
+    seq: 0
+    stamp:
+      nsecs: 0
+      secs: 0
+  joint_names:
+  - panda_joint1
+  - panda_joint2
+  - panda_joint3
+  - panda_joint4
+  - panda_joint5
+  - panda_joint6
+  - panda_joint7
+  points:
+  - accelerations: []
+    effort: []
+    positions:
+    - -0.003349177468704667
+    - -0.7851
+    - 0.0
+    - -2.38447129909129
+    - 0.0
+    - 1.5699
+    - 0.7424
+    time_from_start:
+      data: 0.0
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - 0.0
+    - -0.785
+    - 0.0
+    - -2.3565
+    - 0.0
+    - 3.2225
+    - 0.7771
+    time_from_start:
+      data: 0.31334841628959276
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - 0.0
+    - -0.785
+    - 0.0
+    - -2.3565
+    - 0.0
+    - 3.2225
+    - 0.7771
+    time_from_start:
+      data: 1.3133484162895934
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - -0.0406
+    - -0.8575
+    - -0.0406
+    - -2.38447129909129
+    - -0.1081
+    - 3.3696
+    - 0.9077
+    time_from_start:
+      data: 1.4004524886877834
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - -0.0406
+    - -0.9132
+    - -0.0406
+    - -2.5844
+    - -0.1405
+    - 3.279
+    - 0.9024
+    time_from_start:
+      data: 1.5004524886877835
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - 0.0
+    - -0.785
+    - 0.0
+    - -2.669635625034114
+    - 0.0
+    - 3.2225
+    - 0.7771
+    time_from_start:
+      data: 1.6004524886877844
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - 0.0406
+    - -0.9132
+    - 0.0406
+    - -2.576
+    - -0.1053
+    - 3.2897
+    - 0.8429
+    time_from_start:
+      data: 1.700452488687784
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - 0.1217
+    - -1.0417
+    - 0.0893
+    - -2.4498
+    - -0.1867
+    - 3.497
+    - 0.7597
+    time_from_start:
+      data: 1.8004524886877846
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - 0.0406
+    - -0.9132
+    - 0.0406
+    - -2.576
+    - -0.1053
+    - 3.2897
+    - 0.8429
+    time_from_start:
+      data: 1.9004524886877847
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - 0.0
+    - -0.785
+    - 0.0
+    - -2.669635625034114
+    - 0.0
+    - 3.2225
+    - 0.7771
+    time_from_start:
+      data: 2.0004524886877846
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - -0.0406
+    - -0.9132
+    - -0.0406
+    - -2.5844
+    - -0.1405
+    - 3.279
+    - 0.9024
+    time_from_start:
+      data: 2.100452488687785
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - -0.0406
+    - -0.8575
+    - -0.0406
+    - -2.370213082794148
+    - -0.1081
+    - 3.3696
+    - 0.9077
+    time_from_start:
+      data: 2.2004524886877848
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - -0.0406
+    - -0.9132
+    - -0.0406
+    - -2.5844
+    - -0.1405
+    - 3.279
+    - 0.9024
+    time_from_start:
+      data: 2.3004524886877853
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - 0.0
+    - -0.785
+    - 0.0
+    - -2.6981520576283966
+    - 0.0
+    - 3.2225
+    - 0.7771
+    time_from_start:
+      data: 2.400452488687785
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - 0.0406
+    - -0.9132
+    - 0.0406
+    - -2.576
+    - -0.1053
+    - 3.2897
+    - 0.8429
+    time_from_start:
+      data: 2.5004524886877846
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - 0.1217
+    - -1.0417
+    - 0.0893
+    - -2.4498
+    - -0.1867
+    - 3.497
+    - 0.8939929191882783
+    time_from_start:
+      data: 2.600452488687785
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - 0.0406
+    - -0.9132
+    - 0.0406
+    - -2.576
+    - -0.1053
+    - 3.2897
+    - 0.8429
+    time_from_start:
+      data: 2.7004524886877848
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - 0.0
+    - -0.785
+    - 0.0
+    - -2.669635625034114
+    - 0.0
+    - 3.2225
+    - 0.7771
+    time_from_start:
+      data: 2.8004524886877853
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - -0.0406
+    - -0.9132
+    - -0.0406
+    - -2.5844
+    - -0.1405
+    - 3.279
+    - 0.9024
+    time_from_start:
+      data: 2.900452488687785
+    velocities: []
+  - accelerations: []
+    effort: []
+    positions:
+    - 0.0
+    - -0.7851
+    - 0.0
+    - -2.3565
+    - 0.0
+    - 1.5699
+    - 0.7424
+    time_from_start:
+      data: 3.600452488687785
+    velocities: []
+
